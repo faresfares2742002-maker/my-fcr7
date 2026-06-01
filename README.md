@@ -1,2 +1,2 @@
 # my-fcr7
-for wep fares schoolgat cores
+for school gate web project by fares
